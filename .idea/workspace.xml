@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="341859e9-1a94-4246-8217-91b7a1836ac5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bHin0LTGSz4BamBnoMd0tUbPUE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="settings.editor.splitter.proportion" value="0.2782258" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="341859e9-1a94-4246-8217-91b7a1836ac5" name="Default Changelist" comment="" />
+      <created>1588295582882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588295582882</updated>
+      <workItem from="1588295584194" duration="761000" />
+      <workItem from="1588296377346" duration="1468000" />
+      <workItem from="1588297876858" duration="4529000" />
+      <workItem from="1588321998360" duration="8634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="386" y="66" key="#Inspections" timestamp="1588324448870">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="386" y="66" key="#Inspections/0.0.1280.800@0.0.1280.800" timestamp="1588324448870" />
+    <state x="556" y="216" key="#Notifications" timestamp="1588324084553">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="556" y="216" key="#Notifications/0.0.1280.800@0.0.1280.800" timestamp="1588324084553" />
+    <state x="613" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588322391064">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="613" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1588322391064" />
+    <state x="28" y="0" width="1252" height="800" key="SettingsEditor" timestamp="1588326743941">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="28" y="0" width="1252" height="800" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1588326743941" />
+    <state x="401" y="294" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588332724908">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="401" y="294" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1588332724908" />
+    <state x="344" y="0" width="840" height="798" key="search.everywhere.popup" timestamp="1588330866815">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="344" y="0" width="840" height="798" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1588330866815" />
+  </component>
+</project>
