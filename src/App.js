@@ -1,13 +1,18 @@
 import React from "react"
 
 class App extends React.PureComponent {
+  divRef=undefined
   constructor(props) {
     super(props)
     this.state = {
       n: 1,
-      array:[1,2,3]
+      array:[1,2,3],
+      width: undefined
     }
+    this.divRef = React.createRef()
   }
+componentDidUpdate(prevProps, prevState, snapshot) {
+}
 
   onClick = () => {
     this.setState((state) => ({n: state.n + 1}))
@@ -23,8 +28,24 @@ class App extends React.PureComponent {
       return nextState.n !== this.state.n;
   }*/
 
+  componentDidMount() {
+    /*const div=document.getElementById('xxx')
+    const {width} = div.getBoundingClientRect()
+    // const width = div.getBoundingClientRect().width   解构赋值
+    this.setState({width})*/
+    const div=this.divRef.current
+    console.log(div)
+    const {width}=div.getBoundingClientRect()
+    this.setState({width})
+  }
+
   render() {
-    return this.state.array.map(n=><div key={n}>{n}</div>)
+    return(
+      <div ref={this.divRef}>Hello World, <br/> 窗口宽{this.state.width}px</div>
+
+    )
+
+    /*return this.state.array.map(n=><div key={n}>{n}</div>)*/
     /*return (
       <>
         {this.state.n % 2 === 0 ?
